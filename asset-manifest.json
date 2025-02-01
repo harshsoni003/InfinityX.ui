@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InfinityX.ui/static/css/main.e45ecc98.css",
+    "main.js": "/InfinityX.ui/static/js/main.5d808d21.js",
+    "index.html": "/InfinityX.ui/index.html",
+    "main.e45ecc98.css.map": "/InfinityX.ui/static/css/main.e45ecc98.css.map",
+    "main.5d808d21.js.map": "/InfinityX.ui/static/js/main.5d808d21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45ecc98.css",
+    "static/js/main.5d808d21.js"
+  ]
+}
