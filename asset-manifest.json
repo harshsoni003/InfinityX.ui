@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/InfinityX.ui/static/css/main.efdd2d55.css",
-    "main.js": "/InfinityX.ui/static/js/main.5f69084a.js",
+    "main.js": "/InfinityX.ui/static/js/main.ea2d52fb.js",
     "index.html": "/InfinityX.ui/index.html",
     "main.efdd2d55.css.map": "/InfinityX.ui/static/css/main.efdd2d55.css.map",
-    "main.5f69084a.js.map": "/InfinityX.ui/static/js/main.5f69084a.js.map"
+    "main.ea2d52fb.js.map": "/InfinityX.ui/static/js/main.ea2d52fb.js.map"
   },
   "entrypoints": [
     "static/css/main.efdd2d55.css",
-    "static/js/main.5f69084a.js"
+    "static/js/main.ea2d52fb.js"
   ]
 }
